@@ -44,6 +44,7 @@ export class TVChartContainer extends React.PureComponent {
 			autosize: this.props.autosize,
 			studies_overrides: this.props.studiesOverrides,
 			overrides: {
+				// "mainSeriesProperties.showCountdown": true,
 				"paneProperties.background": "#131722",
 				"paneProperties.vertGridProperties.color": "#363c4e",
 				"paneProperties.horzGridProperties.color": "#363c4e",
