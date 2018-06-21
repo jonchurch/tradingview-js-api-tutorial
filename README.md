@@ -13,7 +13,7 @@ First, do you have access to the [TradingView Charting Library](https://github.c
 
 If that link shows you a 404, then you do not, and you must [apply for access](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/) with TradingView before proceeding.
 
-If you do have access, then clone the repository to your local machine and copy the charting_library folder inside the charting library project into the public folder of an example before running it.
+If you do have access, then clone the Charting Library repository to the root of this repo, and copy the `charting_library` _folder inside the charting library project_ into the public folder of an example before running it.
 
 
 ```
