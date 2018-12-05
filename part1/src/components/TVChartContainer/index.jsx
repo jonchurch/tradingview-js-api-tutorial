@@ -1,7 +1,6 @@
 import * as React from 'react';
 import './index.css';
-import Datafeed from './api/'
-
+import Datafeed from './api/';
 
 function getLanguageFromURL() {
 	const regex = new RegExp('[\\?&]lang=([^&#]*)');
